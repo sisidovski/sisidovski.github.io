@@ -1,23 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>/blog/2014/05/01/test/</loc>
+        <loc>http://sisidovski.github.io/blog/2014/05/01/test/</loc>
         <lastmod>2014-05-01T02:12:50+09:00</lastmod>
     </url>
     <url>
-        <loc>/blog/archives/</loc>
+        <loc>http://sisidovski.github.io/blog/2014/05/01/first-article/</loc>
+        <lastmod>2014-05-01T02:26:43+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sisidovski.github.io/blog/archives/</loc>
+        <lastmod>2014-05-01T02:26:43+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sisidovski.github.io/blog/categories/</loc>
         <lastmod>2014-05-01T02:12:50+09:00</lastmod>
     </url>
     <url>
-        <loc>/blog/categories/</loc>
-        <lastmod>2014-05-01T02:12:50+09:00</lastmod>
+        <loc>http://sisidovski.github.io/</loc>
+        <lastmod>2014-05-01T02:26:43+09:00</lastmod>
     </url>
     <url>
-        <loc>/</loc>
-        <lastmod>2014-05-01T02:12:50+09:00</lastmod>
-    </url>
-    <url>
-        <loc>/robots.txt</loc>
+        <loc>http://sisidovski.github.io/robots.txt</loc>
         <lastmod>2014-05-01T02:10:48+09:00</lastmod>
     </url>
 </urlset>

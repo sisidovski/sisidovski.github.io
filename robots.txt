@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: /sitemap.xml 
+Sitemap: http://sisidovski.github.io/sitemap.xml 
