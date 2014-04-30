@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[恋しくて]]></title>
+  <title><![CDATA[ORANGE]]></title>
   <link href="http://sisidovski.github.io/atom.xml" rel="self"/>
   <link href="http://sisidovski.github.io/"/>
-  <updated>2014-05-01T03:52:31+09:00</updated>
+  <updated>2014-05-01T04:00:57+09:00</updated>
   <id>http://sisidovski.github.io/</id>
   <author>
     <name><![CDATA[sisidovski]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[３つめ]]></title>
+    <link href="http://sisidovski.github.io/blog/2014/05/01/3tume/"/>
+    <updated>2014-05-01T04:00:07+09:00</updated>
+    <id>http://sisidovski.github.io/blog/2014/05/01/3tume</id>
+    <content type="html"><![CDATA[<h1>みっつめだよー</h1>
+
+<ul>
+<li>できてるかなー</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[たいとる]]></title>
