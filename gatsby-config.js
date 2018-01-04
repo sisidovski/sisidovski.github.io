@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Blog",
-    author: "Kyle Mathews",
+    title: "Shunya Shishido | Tokyo-based Web Developer",
+    author: "Shunya Shishido",
   },
   plugins: [
     {
